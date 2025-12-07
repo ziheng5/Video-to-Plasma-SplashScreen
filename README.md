@@ -1,5 +1,6 @@
 # Video-to-Plasma-SplashScreen
 A solution that can convert your `.mp4` video to KDE Plasma Splash Screen！
+
 轻松将你的 `.mp4` 视频转换成 KDE Plasma 的 Splash Screen！
 
 ---
